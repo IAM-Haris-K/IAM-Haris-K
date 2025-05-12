@@ -2,11 +2,13 @@
 
 Cybersecurity Analyst | Secure Software Developer | CTF Player | Ethical Hacker
 
+**Eat  ·  Sleep  ·  Cybersecurity**
+
 Passionate about securing systems, solving real-world problems, and building tamper-proof solutions using **Python**, **Blockchain**, and **Web Technologies**.
 
 ---
 
-### 🧠 About Me
+### About Myself  : 
 
  Passionate and skilled Cybersecurity Analyst with strong foundations in software development and threat
  analysis. Experienced in building secure applications using Python, Java and Blockchain, with hands-on CTF
