@@ -1,24 +1,24 @@
-# Hi there 👋, I'm [Your Name]
+# Hi , I'm Haris K
 
-🎯 Cybersecurity Analyst | Secure Software Developer | CTF Player
+Cybersecurity Analyst | Secure Software Developer | CTF Player | Ethical Hacker
 
-🔐 Passionate about securing systems, solving real-world problems, and building tamper-proof solutions using **Python**, **Blockchain**, and **Web Technologies**.
+Passionate about securing systems, solving real-world problems, and building tamper-proof solutions using **Python**, **Blockchain**, and **Web Technologies**.
 
 ---
 
 ### 🧠 About Me
 
-- 🛡️ Cybersecurity Analyst with hands-on skills in **threat analysis**, **ethical hacking**, and **ransomware detection**
-- 💻 Built a **Blockchain Document Validator** for tamper-proof certificate verification using **Python**, **Solidity**, and **IPFS**
-- 🧠 Developed a **Ransomware Assessment Tool** combining **network traffic analysis**, **machine learning**, and **WHOIS checks**
+ Passionate and skilled Cybersecurity Analyst with strong foundations in software development and threat
+ analysis. Experienced in building secure applications using Python, Java and Blockchain, with hands-on CTF
+ and hackathon success. Certified by IBM, and Google, with proven leadership in technical projects and
+ security-focused solutions.
+ 
 - 🏆 **HackArena’24** Winner (IEEE National Hackathon) | Selected for **Pecan+ CTF Qualifiers** by IIT Madras
 - 🎓 Interned at **CSuite Tech Labs**, **Tech by Heart**, and **Hack Secure**
 - 📜 Certified in **CISSP**, **IBM Cybersecurity**, **Google Cybersecurity**, and **NPTEL Cybersecurity**
 
 ---
-
-### 🛠️ Languages & Tools
-
+Thing I learnt 🐱‍👤
 #### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -40,7 +40,7 @@
 - Enhancing open-source security tools
 - Building smart cybersecurity automations
 - Preparing for advanced CTFs and competitions
-- Always learning, always sharing
+- Always learning, always sharing , eager to Hack !
 
 ---
 
@@ -48,4 +48,4 @@
 
 📫 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
 🐙 [GitHub](https://github.com/yourusername)  
-📧 youremail@example.com
+📧 hariskulanthaivel@gmail.com
