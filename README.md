@@ -49,7 +49,7 @@ Thing I learnt 🐱‍👤
 ---
 
 ### 📬 Let's Connect
-
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-🐙 [GitHub](https://github.com/yourusername)  
-📧 hariskulanthaivel@gmail.com
+✅ [Portfolio](https://iamharisk.my.canva.site/)
+📫 [LinkedIn](https://www.linkedin.com/in/haris--k/)  
+🐙 [GitHub](https://github.com/IAM-Haris-K/)  
+📧 workwithharisk@gmail.com
